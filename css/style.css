@@ -174,15 +174,15 @@ table, th, td {
 }
 
 img.one {
-	height = 250;
-	width = 200;
+	height = 250px;
+	width = 200px;
 }
 img.two { 
-	height = 250;
-	width= 300;
+	height = 250px;
+	width= 300px;
 }
 	
 img.three {
-	height = 420;
-	width = 200;
+	height = 420px;
+	width = 200px;
 }
