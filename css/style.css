@@ -29,14 +29,13 @@ nav {
 nav ul {
 		padding: 0;
 		margin: 0;
-		text-align: center;
 }
 
 nav li {
 		display: inline-block;
 		float: left;
-		margin-left: 5em;
-		margin-right: 30em;
+		margin-left: 15em;
+		margin-right: 20em;
 		padding-top: 1.560em;
 		font-size: 25px;
 		position: relative;
