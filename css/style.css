@@ -22,8 +22,8 @@ header::after {
 }
 
 nav {
-		float: right;
-		text-align: center;
+		display: inline-block;
+		
 }
 
 nav ul {
@@ -34,8 +34,8 @@ nav ul {
 nav li {
 		display: inline-block;
 		float: left;
-		margin-left: 5em;
-		margin-right: 20em;
+		margin-left: auto;
+		margin-right: auto;
 		padding-top: 1.560em;
 		font-size: 25px;
 		position: relative;
@@ -176,8 +176,8 @@ table, th, td {
 }
 
 img.one {
-	height: 250px;
-	width: 200px;
+	height: 200px;
+	width: 250px;
 }
 img.two { 
 	height: 250px;
@@ -185,6 +185,6 @@ img.two {
 }
 	
 img.three {
-	height: 420px;
-	width: 300px;
+	height: 380px;
+	width: 400px;
 }
