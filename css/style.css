@@ -34,7 +34,7 @@ nav ul {
 nav li {
 		display: inline-block;
 		float: left;
-		margin-left: auto;
+		margin-left: 30px;
 		margin-right: auto;
 		padding-top: 1.560em;
 		font-size: 25px;
