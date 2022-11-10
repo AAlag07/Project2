@@ -34,7 +34,7 @@ nav ul {
 nav li {
 		display: inline-block;
 		float: left;
-		margin-left: 15em;
+		margin-left: 5em;
 		margin-right: 20em;
 		padding-top: 1.560em;
 		font-size: 25px;
@@ -186,5 +186,5 @@ img.two {
 	
 img.three {
 	height: 420px;
-	width: 200px;
+	width: 300px;
 }
