@@ -1,5 +1,5 @@
 body {
-		background-color: #008080;
+		background-color: #006666;
 		font-family: 'Share Tech Mono';
 		font-weight: 300;
 		margin: 0;
@@ -54,7 +54,7 @@ nav a::before {
 		display: block;
 		height: 0.513em;
 		width: 100%;
-		background-color: #363636;
+		background-color: #1b03a3;
 		
 		position: absolute;
 		top: 0;
