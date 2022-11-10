@@ -35,7 +35,8 @@ nav ul {
 nav li {
 		display: inline-block;
 		float: left;
-		margin: auto;
+		margin-left: 10em;
+		margin-right: 20em;
 		padding-top: 1.560em;
 		font-size: 25px;
 		position: relative;
@@ -185,6 +186,10 @@ img.two {
 }
 	
 img.three {
+	height: 380px;
+	width: 400px;
+}
+iframe.one {
 	height: 380px;
 	width: 400px;
 }
