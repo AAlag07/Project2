@@ -35,10 +35,11 @@ nav li {
 		display: inline-block;
 		float: left;
 		margin-left: 5em;
-		margin-right: 25em;
+		margin-right: 40em;
 		padding-top: 1.560em;
 		font-size: 25px;
 		position: relative;
+		text-align: center;
 }
 
 nav a {
